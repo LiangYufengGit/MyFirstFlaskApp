@@ -1,7 +1,19 @@
-# MyFirstFlaskApp
-My first Flask applicaiton
+# MyFlaskApp
+My Flask applicaiton
 
-#Launch the app with docker
+This application allows user to purchase and sell items in the market application.  
+Templates and forms are based on Boostrap frontend framwork
+
+# Features:
+    -Register, login user
+    -Buy items, sell items
+    -Account balance control
+
+# Demo
+
+![Alt Text](https://github.com/LiangYufengGit/MyFlaskApp/tree/main/img/demo.gif)
+
+# Launch the application with docker-compose
 ```
-docker-compose up --build
+docker-compose up -d --build
 ```
