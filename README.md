@@ -11,7 +11,7 @@ Templates and forms are based on Boostrap frontend framwork
 
 # Demo
 
-![Alt Text](https://github.com/LiangYufengGit/MyFlaskApp/tree/main/img/demo.gif)
+![Alt Text](https://github.com/LiangYufengGit/MyFlaskApp/blob/main/img/Demo.gif)
 
 # Launch the application with docker-compose
 ```
